@@ -1,4 +1,4 @@
-## Arduino_RFID
+# Arduino_RFID
 Arduino RFID ile  Giriş Sistemi 
 
 Projenin amacı: Halka açık alanların kullanım sınırlamalarını RFID sistemi kullanarak takip etmek. 
@@ -7,7 +7,7 @@ içeride n kişi olup olmadığını kontrol ediyor. İçerisi n kişiden fazla 
 
 ![](https://github.com/kubraturkoglu/Arduino_RFID/blob/main/images/arduino_RF%C4%B0D.PNG)
 
-# KULLANILAN MALZEMELER
+## KULLANILAN MALZEMELER
 
 -	RC522 RFID modül Arduino Raspberry PIC
 -	RF Kartları
