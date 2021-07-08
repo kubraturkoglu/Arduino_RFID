@@ -16,3 +16,5 @@ içeride n kişi olup olmadığını kontrol ediyor. İçerisi n kişiden fazla 
 -	Arduino UNO (CH340 Klon)
 -	Erkek-Erkek Jumper Kablo
 -	Resistors
+- Green-led
+- Red-Led
